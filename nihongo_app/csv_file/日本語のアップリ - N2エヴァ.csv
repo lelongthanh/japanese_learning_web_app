@@ -1,0 +1,122 @@
+ID,言葉,ふりがな,言葉意味,答A,答B,答C,正答,例,例意味,言語,
+1,順序,じゅんじょ,urutan,kebalikan,urutan,perkalian,urutan,順序を守らずに作業を行うと問題が生じます。,"Jika melakukan pekerjaan tanpa mematuhi urutan, masalah akan timbul.",インドネシア語,N2
+2,現象,げんしょう,fenomena,keajaiban,fenomena,sihir,fenomena,最新の研究によると、この現象は予測可能です。,"Menurut penelitian terbaru, fenomena ini dapat diprediksi.",インドネシア語,N2
+3,指示,しじ,petunjuk,kelelahan,bukti,petunjuk,petunjuk,新しいプロジェクトに関する指示がチームに伝えられました。,Petunjuk tentang proyek baru telah disampaikan kepada tim.,インドネシア語,N2
+4,効果,こうか,efek,efek,kelebihan,alergi,efek,眠りの質に良い効果をもたらす方法を探しています。,Kami sedang mencari cara yang memberikan efek positif pada kualitas tidur.,インドネシア語,N2
+5,発展,はってん,pengembangan,pemilihan,penyuluhan,pengembangan,pengembangan,社会的な変化は技術の発展によってもたらされることがあります。,Perubahan sosial kadang-kadang disebabkan oleh perkembangan teknologi.,インドネシア語,N2
+6,基準,きじゅん,standar,standar,kebutuhan,kelaparan,standar,食品の表示基準によれば、この製品は有機認定を受けています。,"Menurut standar label makanan, produk ini telah mendapatkan sertifikasi organik.",インドネシア語,N2
+7,確認,かくにん,konfirmasi,atur ulang,konfirmasi,melihat,konfirmasi,メールを確認すると、重要な情報が届いていました。,"Setelah memeriksa email, saya menerima informasi penting.",インドネシア語,N2
+8,緊張,きんちょう,ketegangan,ketegangan,santai,kegembiraan,ketegangan,面接の時は自分自身を緊張せずに自然体で話すように心掛けています。,Saya berusaha berbicara dengan sikap alami tanpa gugup saat wawancara.,インドネシア語,N2
+9,認識,にんしき,kesadaran,pingsan,kesadaran,kesedihan,kesadaran,環境問題の重要性を認識して行動することが必要です。,Penting untuk menyadari dan bertindak dalam menghadapi isu lingkungan.,インドネシア語,N2
+10,関係,かんけい,hubungan,tolak ukur,pertimbangan,hubungan,hubungan,家族との関係を大切にすることは幸せな生活の秘訣です。,Menjaga hubungan dengan keluarga adalah kunci kehidupan yang bahagia.,インドネシア語,N2
+11,技術,ぎじゅつ,teknologi,modern,teknologi,canggih,teknologi,技術の進歩により、生活の質が向上しています。,Kemajuan teknologi telah meningkatkan kualitas hidup.,インドネシア語,N2
+12,活動,かつどう,kegiatan,kegiatan,kesibukan,keringatan,kegiatan,学校の文化祭では演劇活動に参加しています。,Saya berpartisipasi dalam kegiatan teater di festival budaya sekolah.,インドネシア語,N2
+13,経済,けいざい,ekonomi,ekonomi,ekologi,peningkatan,ekonomi,高齢化社会における経済的な課題に取り組む必要があります。,Perlu untuk mengatasi tantangan ekonomi dalam masyarakat yang menua.,インドネシア語,N2
+14,判断,はんだん,penilaian,penilaian,selanjutnya,akibat,penilaian,判断を誤ると大きなリスクを引き起こす可能性があります。,Kesalahan dalam penilaian dapat menimbulkan risiko besar.,インドネシア語,N2
+15,責任,せきにん,tanggung jawab,pendamping,tanggung jawab,penjamin,tanggung jawab,社員は自分の仕事に対して責任を持つべきです。,Karyawan harus bertanggung jawab terhadap pekerjaan mereka sendiri.,インドネシア語,N2
+16,成功,せいこう,keberhasilan,mundur,mengulang,keberhasilan,keberhasilan,チームの協力と努力により、プロジェクトは予定通りに成功しました。,"Melalui kerjasama tim dan usaha keras, proyek berhasil sesuai jadwal.",インドネシア語,N2
+17,組織,そしき,organisasi,penjamin,keluarga,organisasi,organisasi,組織の方針に従って行動する必要があります。,Anda perlu bertindak sesuai dengan kebijakan organisasi.,インドネシア語,N2
+18,特徴,とくちょう,ciri khas,labil,ciri khas,ceria,ciri khas,この車は燃費の良さが特徴的で、経済的な選択肢となります。,"Keunggulan mobil ini adalah efisiensi bahan bakarnya yang tinggi, menjadikannya pilihan yang ekonomis.",インドネシア語,N2
+19,解決,かいけつ,penyelesaian,penyelesaian,pendapat,penghasilan,penyelesaian,彼らはチームワークを活かして問題を解決しました。,Mereka berhasil menyelesaikan masalah dengan memanfaatkan kerja tim.,インドネシア語,N2
+20,信頼,しんらい,kepercayaan,kepercayaan,pemulihan,pengosongan,kepercayaan,彼の仕事への取り組みには信頼を寄せています。,Saya mempercayai dedikasi kerjanya.,インドネシア語,N2
+21,試験,しけん,ujian,ujian,memulai,mandiri,ujian,試験の結果に関わらず、努力は常に報われます。,"Tanpa menghiraukan hasil ujian, usaha selalu mendapatkan penghargaan.",インドネシア語,N2
+22,可能性,かのうせい,Kemungkinan,terjadi,Kemungkinan,masa lalu,Kemungkinan,新しいアイデアを試してみることで、新たな可能性が開けるかもしれません。,"Dengan mencoba ide baru, mungkin akan terbuka peluang-peluang baru.",インドネシア語,N2
+23,説明,せつめい,Penjelasan,kebetulan,Kemungkinan,Penjelasan,Penjelasan,研究の結果を分かりやすく説明するために図を利用しました。,Saya menggunakan gambar untuk menjelaskan hasil penelitian dengan jelas.,インドネシア語,N2
+24,発言,はつげん,Pernyataan,berbicara,Pernyataan,pertanyaan,Pernyataan,会議での彼の発言は全員の注目を浴びました。,Pernyataannya dalam rapat menarik perhatian semua orang.,インドネシア語,N2
+25,現実,げんじつ,kenyataan,kebetulan,kenyataan,mimpi,kenyataan,彼の夢は現実に近づくために努力しています。,Dia sedang berusaha untuk mewujudkan impian dalam kenyataan.,インドネシア語,N2
+26,機会,きかい,Kesempatan,berani,kemungkinan,Kesempatan,Kesempatan,人生には数多くの機会がありますので、逃さずに掴むべきです。,"Kehidupan penuh dengan banyak kesempatan, jadi kita harus mengambilnya tanpa melepaskannya.",インドネシア語,N2
+27,範囲,はんい,Lingkup,area,tempat,Lingkup,Lingkup,開発プロジェクトの範囲を広げるために、新たなリソースを検討しています。,"Untuk memperluas lingkup proyek pengembangan, kami sedang mempertimbangkan sumber daya baru.",インドネシア語,N2
+28,関連,かんれん,Keterkaitan,menarik,Keterkaitan,bersih,Keterkaitan,インターネットの普及は社会との関連を大きく変えました。,Penyebaran internet telah mengubah hubungan dengan masyarakat secara signifikan.,インドネシア語,N2
+29,経営,けいえい,Manajemen,Manajemen,kebersihan,disiplin,Manajemen,新入社員は経営理念と企業文化を理解する必要があります。,Karyawan baru perlu memahami prinsip manajemen dan budaya perusahaan.,インドネシア語,N2
+30,能力,のうりょく,Kemampuan,ajaib,Kemampuan,berbakat,Kemampuan,この仕事には高度な技術能力が必要です。,Pekerjaan ini membutuhkan kemampuan teknis yang tinggi.,インドネシア語,N2
+31,観察,かんさつ,Pengamatan,Pengamatan,memandang,mata,Pengamatan,社会の変化を観察して、社会学的なパターンを研究しました。,Kami mengamati perubahan sosial dan mempelajari pola-pola sosiologi.,インドネシア語,N2
+32,交流,こうりゅう,Interaksi,gosip,Interaksi,berdebat,Interaksi,言語交流プログラムに参加することで、外国語のスキルを向上させることができます。,"Dengan berpartisipasi dalam program pertukaran bahasa, kita dapat meningkatkan keterampilan bahasa asing kita.",インドネシア語,N2
+33,拡大,かくだい,Perluasan,ramai,sepi,Perluasan,Perluasan,新製品の発売により、会社は国内市場での存在感を拡大しました。,"Dengan meluncurkan produk baru, perusahaan memperluas kehadirannya di pasar domestik.",インドネシア語,N2
+34,対話,たいわ,Dialog,bertengkar,berdebat,Dialog,Dialog,対話を通じて、意見の相違点を解決する方法を見つけることができます。,"Melalui dialog, kita dapat menemukan cara untuk menyelesaikan perbedaan pendapat.",インドネシア語,N2
+35,応用,おうよう,Penerapan,Penerapan,memulai,berlari,Penerapan,科学の原理を応用して新しい技術を開発しました。,Kami mengembangkan teknologi baru dengan menerapkan prinsip-prinsip ilmiah.,インドネシア語,N2
+36,動向,どうこう,Kebijakan,kekuatan,Kebijakan,kelemahan,Kebijakan,ファッション業界では、流行の動向が急速に変わっています。,"Di industri fashion, tren mode berubah dengan cepat.",インドネシア語,N2
+37,対策,たいさく,langkah penanggulangan,antusias,langkah penanggulangan,kekurangan,langkah penanggulangan,パンデミックの拡大に対する対策を早急に取る必要があります。,Perlu segera mengambil tindakan pencegahan terhadap penyebaran pandemi.,インドネシア語,N2
+38,関心,かんしん,Minat,hobi,Minat,mimpi,Minat,文学に関心を持つことで、創造的な表現力を育てることができます。,"Dengan memiliki minat dalam sastra, kita dapat mengembangkan kemampuan ekspresi kreatif.",インドネシア語,N2
+39,保証,ほしょう,Jaminan,Jaminan,pesta,kelakuan,Jaminan,保証書を紛失した場合は、購入証明書が保証の代わりとなります。,"Jika sertifikat jaminan hilang, bukti pembelian akan menjadi pengganti jaminan.",インドネシア語,N2
+40,投資,とうし,Investasi,dagangan,Investasi,laba,Investasi,投資には時間と努力が必要ですが、将来の利益を追求する価値があります。,"Investasi membutuhkan waktu dan usaha, tetapi memiliki nilai dalam mengejar keuntungan di masa depan.",インドネシア語,N2
+41,処分,しょぶん,pembuangan,memelihara,pembuangan,menyimpan,pembuangan,環境に配慮して、古い家電製品を適切に処分する方法を学びました。,Saya belajar cara membuang peralatan listrik tua dengan memperhatikan lingkungan.,インドネシア語,N2
+42,分別,ぶんべつ,penyortiran,penyortiran,pengolahan,pembuangan,penyortiran,この問題を理解するには、分別が必要です。,"Untuk memahami masalah ini, diperlukan pemahaman yang cermat.",インドネシア語,N2
+43,指定する,していする,menentukan,menentukan,bimbingan,belajar,menentukan,申し込む前に必要な書類を指定されたフォーマットで準備してください。,Siapkan dokumen yang diperlukan dalam format yang telah ditetapkan sebelum mengajukan permohonan.,インドネシア語,N2
+44,節約,せつやく,berhemat,menghindar,berhemat,alasan,berhemat,経済的に困難な時期には、生活費を節約することが大切です。,"Saat-saat sulit secara ekonomi, sangat penting untuk menghemat biaya hidup.",インドネシア語,N2
+45,招待する,しょうたいする,mengundang,lamaran,mengundang,alasan,mengundang,彼女は結婚式に多くのゲストを招待した。,Dia mengundang banyak tamu ke pernikahan mereka.,インドネシア語,N2
+46,過ごす,すごす,menghabiskan,memakai,menghabiskan,meminjam,menghabiskan,夏休み中、私たちは海辺で素晴らしい時間を過ごしました。,"Selama liburan musim panas, kami menghabiskan waktu yang luar biasa di pantai.",インドネシア語,N2
+47,暮らす,くらす,tinggal,belajar,tinggal,mengemudi,tinggal,東京での生活費は高いため、経済的に厳しい状況で暮らす人も多い。,"Biaya hidup di Tokyo tinggi, sehingga banyak orang yang tinggal dalam situasi ekonomi yang sulit.",インドネシア語,N2
+48,手ごろな,てごろな,terjangkau,lurus,terjangkau,halus,terjangkau,このレストランは手ごろな価格で美味しい食事を提供しています。,Restoran ini menyediakan hidangan lezat dengan harga yang terjangkau.,インドネシア語,N2
+49,家事,かじ,pekerjaan rumah tangga,tugas sekolah,penelitian,pekerjaan rumah tangga,pekerjaan rumah tangga,家事を分担することは夫婦関係を強化するのに役立ちます。,Membagikan pekerjaan rumah tangga membantu memperkuat hubungan suami-istri.,インドネシア語,N2
+50,食卓,しょくたく,meja makan,beranda,ruang tamu,meja makan,meja makan,レストランの食卓には多彩な料理が並んでいます。,"Di meja makan restoran, beragam hidangan tersedia.",インドネシア語,N2
+51,炊事,すいじ,memasak,bermain,memasak,tidur,memasak,この本には時短の炊事術についてのアドバイスがたくさんあります。,Buku ini berisi banyak saran tentang teknik memasak hemat waktu.,インドネシア語,N2
+52,甘やかす,あまやかす,memanjakan,memanjakan,manis,cantik,memanjakan,彼女は子供たちをとても甘やかしすぎると非常に理解しています。,Dia sangat paham bahwa memanjakan anak-anak terlalu berlebihan tidak baik.,インドネシア語,N2
+53,育児,いくじ,perawatan anak,perawatan anak,jalan-jalan,kecantikan,perawatan anak,両親は子供の育児を分担し、家庭で協力しています。,Orangtua membagi tugas dalam merawat anak dan bekerja sama di rumah.,インドネシア語,N2
+54,怒鳴る,どなる,berteriak,mengelus,berteriak,memelas,berteriak,母親は子供たちに怒鳴ることなく、問題を話し合うことを好む。,Ibu lebih suka berbicara dengan anak-anaknya untuk menyelesaikan masalah daripada berteriak pada mereka.,インドネシア語,N2
+55,妊娠する,にんしんする,hamil,liburan,hamil,cuti,hamil,彼女は妊娠していることを家族に伝えました。,Dia memberi tahu keluarganya bahwa dia sedang hamil.,インドネシア語,N2
+56,落書き,らくがき,coretan,coretan,melukis,menyusun,coretan,公共の場所に落書きをすることは法律違反です。,Melakukan coretan di tempat umum adalah melanggar hukum.,インドネシア語,N2
+57,暴れる,あばれる,berbuat onar,sopan santun,tawuran,berbuat onar,berbuat onar,彼は怒りっぽい性格で、時々怒って暴れることがあります。,Dia memiliki sifat pemarah dan kadang-kadang marah dan berbuat onar.,インドネシア語,N2
+58,引っ張る,ひっぱる,menarik,meletakkan,menarik,mendorong,menarik,車が故障していて、友達が私の車を引っ張ってくれました。,"Mobil saya rusak, dan seorang teman menarik mobil saya.",インドネシア語,N2
+59,海水浴,かいすいよく,berenang di laut,berenang di laut,pelatihan,menyelam,berenang di laut,夏になると、たくさんの人々が海水浴に訪れます。,"Saat musim panas tiba, banyak orang datang untuk berenang di laut.",インドネシア語,N2
+60,日焼けする,ひやけする,terbakar sinar matahari,berendam,terbakar sinar matahari,alergi,terbakar sinar matahari,ビーチで一日中過ごした後、私は日焼けしてしまいました。,"Setelah menghabiskan sepanjang hari di pantai, saya mendapatkan kulit yang terbakar sinar matahari.",インドネシア語,N2
+61,銀行口座,ぎんこうこうざ,rekening bank,rekening bank,surat,telegram,rekening bank,新しい銀行口座を開設するためには、本人確認書類が必要です。,"Untuk membuka rekening bank baru, Anda memerlukan dokumen identifikasi pribadi.",インドネシア語,N2
+62,自動,じどう,otomatis,manual,otomatis,panduan,otomatis,自動販売機で飲み物を買うことができます。,Anda bisa membeli minuman dari mesin penjual otomatis.,インドネシア語,N2
+63,家賃,やちん,sewa rumah,ongkos kirim,sewa rumah,gaji,sewa rumah,賃貸アパートを借りる際、家賃以外に敷金と礼金もかかります。,"Saat menyewa apartemen, selain biaya sewa, ada juga uang jaminan dan uang salam yang harus dibayar.",インドネシア語,N2
+64,赤字,あかじ,kerugian,kerugian,pengusuran,longsor,kerugian,赤字を解消するために、新たな収益源を見つける必要があります。,"Untuk mengatasi kerugian, Anda perlu menemukan sumber pendapatan baru.",インドネシア語,N2
+65,外食する,がいしょくする,makan diluar,keluarga,makan diluar,pesta,makan diluar,忙しい週の終わりには、外食してリラックスすることが多いです。,"Ketika akhir pekan sibuk, saya sering makan di luar untuk bersantai.",インドネシア語,N2
+66,栄養,えいよう,nutrisi,nutrisi,protein,vitamin,nutrisi,この食品には豊富な栄養が含まれていて、体に良い影響を与えます。,Makanan ini mengandung banyak nutrisi dan memiliki dampak positif pada tubuh.,インドネシア語,N2
+67,事務員,じむいん,pegawai kantor,pegawai kantor,petani,pengelola,pegawai kantor,事務員は日常のオフィスタスクを管理し、業務の円滑な進行を支援します。,Pegawai kantor mengelola tugas-tugas kantor sehari-hari dan mendukung kelancaran operasional.,インドネシア語,N2
+68,履歴書,りれきしょ,resume,resume,resep,note,resume,新しい仕事を探す際に、きちんとした履歴書を用意することが大切です。,"Saat mencari pekerjaan baru, sangat penting untuk menyiapkan sebuah resume yang rapi.",インドネシア語,N2
+69,正社員,せいしゃいん,karyawan tetap,buruh,karyawan tetap,nelayan,karyawan tetap,正社員としての待遇には、福利厚生とキャリアの発展の機会が含まれています。,Perlakuan untuk karyawan tetap mencakup manfaat dan peluang pengembangan karier.,インドネシア語,N2
+70,派遣社員,はけんしゃいん,karyawan kontrak,karyawan kontrak,tenaga kerja asing,mandor,karyawan kontrak,彼女は派遣社員として数ヶ月間、私たちのプロジェクトに参加しました。,Dia bergabung dengan proyek kami selama beberapa bulan sebagai karyawan kontrak.,インドネシア語,N2
+71,勤務,きんむ,pekerjaan ,rayuan,pekerjaan ,malas,pekerjaan ,彼女は週末にも勤務があり、休みがあまりありません。,"Dia bekerja bahkan di akhir pekan, jadi dia tidak memiliki banyak waktu istirahat.",インドネシア語,N2
+72,支給,しきゅう,pemberian,hasil,poin,pemberian,pemberian,学生には奨学金が支給されて、学業を続けるのを支援します。,Beasiswa diberikan kepada siswa untuk mendukung mereka dalam mengejar pendidikan mereka.,インドネシア語,N2
+73,同僚,どうりょう,rekan kerja,ibu,saudara,rekan kerja,rekan kerja,日常の業務では、同僚たちと協力して仕事を進めます。,"Dalam pekerjaan sehari-hari, kami bekerja sama dengan rekan kerja untuk menyelesaikan tugas.",インドネシア語,N2
+74,教わる,おそわる,mengajarkan,menyulam,mengajarkan,menanam,mengajarkan,彼は先輩から多くのことを教わりました。,Dia belajar banyak hal dari senior.,インドネシア語,N2
+75,見習う,みならう,mengikuti contoh,menyontek,memaksa,mengikuti contoh,mengikuti contoh,新入社員は先輩社員の仕事のやり方を見習いつつ、自分のスキルを向上させています。,Karyawan baru sedang meningkatkan keterampilannya sambil mengikuti cara kerja anggota senior.,インドネシア語,N2
+76,早退する,そうたいする,pulang lebih awal,lembur,pulang lebih awal,bolos,pulang lebih awal,学校からの連絡で、明日は天気が悪いとの予報だったので、生徒たちは早退が許可されました。,"Dari pemberitahuan sekolah, karena ada perkiraan cuaca buruk besok, siswa-siswa diperbolehkan pulang lebih awal.",インドネシア語,N2
+77,怠ける,なまける,malas,rajin,gigih,malas,malas,彼は宿題を怠けて、試験前に焦っています。,"Dia malas mengerjakan PR, dan sekarang dia panik menjelang ujian.",インドネシア語,N2
+78,言い訳,いいわけ,alasan,kenangan,kewajiban,alasan,alasan,試験の成績が悪いのに、言い訳をするよりももっと勉強すべきだと思います。,"Meskipun hasil ujian buruk, saya pikir kita seharusnya belajar lebih banyak daripada memberikan alasan.",インドネシア語,N2
+79,長引き,ながびき,berlanjut,sayang,berlanjut,amatir,berlanjut,交渉が長引いて、最終的な合意に達するのに数週間かかりました。,Perundingan berlanjut dan dibutuhkan beberapa minggu untuk mencapai kesepakatan akhir.,インドネシア語,N2
+80,具体的,ぐたいてき,spesifik,olahraga,spesifik,sidik jari,spesifik,具体的な例を挙げて、説明を分かりやすくしてください。,Tolong jelaskan dengan memberikan contoh yang spesifik untuk mempermudah pemahaman.,インドネシア語,N2
+81,述べる,のべる,menyatakan,bertanya,menyatakan,menjawab,menyatakan,意見を述べる前に、よく考えることが大切です。,"Sebelum menyatakan pendapat, penting untuk memikirkannya dengan baik.",インドネシア語,N2
+82,打ち合わせ,うちあわせ,pertemuan,perpisahan,pertemuan,salaman,pertemuan,打ち合わせの結果、新しい戦略が策定されることになりました。,"Sebagai hasil pertemuan, strategi baru akan dirumuskan.",インドネシア語,N2
+83,組む,くむ,membentuk,membentuk,mengolah,menggiling,membentuk,チームを組んでプロジェクトに取り組みます。,Kami akan bekerja pada proyek ini dengan membentuk tim.,インドネシア語,N2
+84,順調,じゅんちょう,lancar,sempit,lancar,menghindar,lancar,今週の売り上げは順調で、予測を上回っています。,Penjualan minggu ini berjalan lancar dan melampaui perkiraan.,インドネシア語,N2
+85,転送する,てんそうする,meneruskan,meneruskan,melirik,membawa,meneruskan,メールを転送して、他のチームメンバーに情報を共有しました。,Saya meneruskan email untuk berbagi informasi dengan anggota tim lainnya.,インドネシア語,N2
+86,保留する,ほりゅうする,menunda,melanjutkan,menunda,mengambil,menunda,この提案については意見が分かれるため、今回は保留することにしました。,"Karena pendapat tentang usulan ini bervariasi, kami memutuskan untuk menundanya kali ini.",インドネシア語,N2
+87,昇進する,しょうしんする,dipromosikan,melanjutkan,dipromosikan,melanggar,dipromosikan,彼は優れた業績を上げたため、昇進することになりました。,"Karena pencapaiannya yang luar biasa, dia dipromosikan.",インドネシア語,N2
+88,首になる,くびになる,dipecat,dipuji,dipecat,disayang,dipecat,プロジェクトの失敗が原因で、プロジェクトリーダーは首になりました。,"Akibat kegagalan proyek, pemimpin proyek dipecat.",インドネシア語,N2
+89,操作,そうさ,mengoperasikan,menghalangi,memulai,mengoperasikan,mengoperasikan,コンピューターを操作して、新しいソフトウェアをインストールしました。,Saya mengoperasikan komputer untuk menginstal perangkat lunak baru.,インドネシア語,N2
+90,契約,けいやく,kontrak,kontrak,produk,limbah,kontrak,建設会社との契約に基づいて、工事は進行中です。,"Berdasarkan kontrak dengan perusahaan konstruksi, konstruksi sedang berlangsung.",インドネシア語,N2
+91,機能,きのう,fitur,produk,fitur,catatan,fitur,このアプリには多くの便利な機能が組み込まれています。,Aplikasi ini memiliki banyak fitur yang berguna.,インドネシア語,N2
+92,表示,ひょうじ,menampilkan,menampilkan,penampakan,bayangan,menampilkan,この機器は重要なデータをリアルタイムで表示できます。,Perangkat ini dapat menampilkan data penting secara real-time.,インドネシア語,N2
+93,変換,へんかん,konversi,penampilan,tambahan,konversi,konversi,通貨を変換するために、為替レートを確認してください。,"Untuk mengkonversi mata uang, periksa kurs pertukaran.",インドネシア語,N2
+94,余白,よはく,ruang kosong,ruang kosong,jawaban,contekan,ruang kosong,画面上の余白を利用して、情報を整理することができます。,Anda dapat mengatur informasi dengan menggunakan ruang kosong di layar.,インドネシア語,N2
+95,個人情報,こじんじょうほう,informasi pribadi,informasi pribadi,data,daftar isi,informasi pribadi,健康保険に登録する際には、正確な個人情報が必要です。,"Saat mendaftar asuransi kesehatan, informasi pribadi yang akurat diperlukan.",インドネシア語,N2
+96,無邪気な,むじゃきな,polos,ceria,polos,sedih,polos,彼の無邪気な行動に、周りの人たちは笑顔になりました。,Tindakan polosnya membuat orang di sekitarnya tersenyum.,インドネシア語,N2
+97,乱暴な,らんぼうな,kasar,kasar,cepat,lelah,kasar,乱暴な運転は事故の原因となりますので、十分に注意してください。,"Berkendara dengan kasar dapat menjadi penyebab kecelakaan, jadi harap berhati-hati.",インドネシア語,N2
+98,器用な,きような,handal,handal,picik,dengki,handal,彼女は料理がとても器用で、いつも美味しい料理を作ってくれます。,Dia sangat handal dalam memasak dan selalu membuat hidangan yang lezat.,インドネシア語,N2
+99,粗末な,そまつな,sederhana,mewah,sederhana,berkelas,sederhana,粗末な材料しか手に入らなかったので、工作物があまりきれいになりませんでした。,"Karena hanya mendapatkan bahan yang sederhana, hasil kerajinan tidak begitu bagus.",インドネシア語,N2
+100,診察,しんさつ,pemeriksaan,penyajian,pemeriksaan,pengaman,pemeriksaan,診察室で待っている間、患者は不安な気持ちでいっぱいでした。,"Saat menunggu di ruang pemeriksaan, pasien penuh dengan perasaan cemas.",インドネシア語,N2
+,,,,,,,,,,,
+,,,,,,,,,,,
+1,都合,つごう,keadaan,harapan,keadaan,pengaman,keadaan,今月の都合が悪くて、会社のイベントには参加できません。,"Karena kesibukan bulan ini, saya tidak bisa ikut serta dalam acara perusahaan.",インドネシア語,N3
+2,状態,じょうたい,kondisi,kondisi,laporan,catatan,kondisi,新しい薬を飲んでから、体の状態が改善しました。,"Setelah minum obat baru, kondisi tubuh saya membaik.",インドネシア語,N3
+3,状況,じょうきょう,situasi,sakit,situasi,lancar,situasi,事故の状況を詳しく説明してください。,Tolong jelaskan secara rinci situasi kecelakaan itu.,インドネシア語,N3
+4,経験,けいけん,pengalaman,pengalaman,terjadi,masa lalu,pengalaman,新しいプロジェクトに参加して、多くの経験を積むことができました。,"Dengan berpartisipasi dalam proyek baru, saya dapat mengumpulkan banyak pengalaman.",インドネシア語,N3
+5,進む,すすむ,maju,mundur,depan,maju,maju,子供の成績が向上しており、学習が順調に進んでいます。,"Prestasi anak-anak meningkat, dan proses belajarnya berjalan dengan baik.",インドネシア語,N3
+6,考える,かんがえる,memikirkan,melamun,memikirkan,melangkah,memikirkan,彼は真剣に将来の計画を考えています。,Dia sedang memikirkan rencana masa depan dengan sungguh-sungguh.,インドネシア語,N3
+7,結果,けっか,hasil,hasil,jumlah,kurang,hasil,試験の結果が発表されるのは来週です。,Hasil ujian akan diumumkan minggu depan.,インドネシア語,N3
+8,目的,もくてき,tujuan,sakit,tujuan,menang,tujuan,このトレーニングの目的は体力を向上させることです。,Tujuan dari latihan ini adalah meningkatkan daya tahan tubuh.,インドネシア語,N3
+9,決める,きめる,memutuskan,memutuskan,sambungan,merangkak,memutuskan,この問題については、早急に解決策を決める必要があります。,"Tentang masalah ini, kita perlu segera menetapkan solusi.",インドネシア語,N3
+10,開発,かいはつ,pengembangan,penemuan,pengembangan,berbakat,pengembangan,会社は新製品を開発して市場に投入する予定です。,Perusahaan berencana untuk mengembangkan produk baru dan memasarkannya.,インドネシア語,N3
+11,努力,どりょく,usaha,pemikiran,ide,usaha,usaha,一生懸命に勉強して、合格するために努力しました。,Saya berusaha keras belajar agar lulus.,インドネシア語,N3
+12,関係,かんけい,hubungan,pacar,istri,hubungan,hubungan,先輩との関係が良好で、いつもアドバイスをもらっています。,"Hubungan saya dengan senior baik, dan saya selalu mendapatkan saran dari mereka.",インドネシア語,N3
+13,必要,ひつよう,kebutuhan,mengalir,membaca,kebutuhan,kebutuhan,この問題については、早急に解決策を決める必要があります。,"Tentang masalah ini, kita perlu segera menetapkan solusi.",インドネシア語,N3
+14,問題,もんだい,masalah,solusi,masalah,cara,masalah,この問題については、早急に解決策を決める必要があります。,"Tentang masalah ini, kita perlu segera menetapkan solusi.",インドネシア語,N3
+15,解決,かいけつ,solusi,solusi,perang,berpindah,solusi,この問題については、早急に解決策を決める必要があります。,"Tentang masalah ini, kita perlu segera menetapkan solusi.",インドネシア語,N3
+16,違う,ちがう,salah,betul,salah,seri,salah,この経験は私たちの想像とは全く違うものでした。,Pengalaman ini benar-benar berbeda dari apa yang kita bayangkan.,インドネシア語,N3
+17,同じ,おなじ,serupa,serupa,kembar,adik,serupa,この部屋は昨年と同じ配置です。,Kamar ini memiliki susunan yang sama seperti tahun lalu.,インドネシア語,N3
+18,変わる,かわる,berubah,pembela,berubah,pahlawan,berubah,この町は最近、大きく変わりました。,Kota ini baru-baru ini mengalami perubahan besar.,インドネシア語,N3
+19,利用,りよう,penggunaan,kekurangan,jalan,penggunaan,penggunaan,この機械はエネルギーを効率的に利用しています。,Mesin ini menggunakan energi secara efisien.,インドネシア語,N3

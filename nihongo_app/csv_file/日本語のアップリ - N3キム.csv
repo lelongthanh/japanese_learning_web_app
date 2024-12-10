@@ -1,0 +1,160 @@
+0,,フリガナ,言葉意味,答A,答B,答C,正答,例,例意味,言語,レベル
+1,努力,どりょく,Nổ lực,cuộc sống  ,Nổ lực,cố gắng,Nổ lực,一生懸命、努力をしています。,Tôi đang làm việc chăm chỉ và cố gắng.,ベトナム語,N3
+2,湿気,しっけ,ẩm thấp,Ẩm ướt ,ẩm thấp,hứng thú,ẩm thấp,日本の夏は湿気が多いです。,Mùa hè ở Nhật Bản ẩm ướt.,ベトナム語,N3
+3,性格,せいかく,tính cách,tính năng,tính cách,nhớ lại,tính cách,あの人は性格がいいので、みんなに好かれています。,Người đó có nhân cách tốt nên ai cũng quý mến.,ベトナム語,N3
+4,知人,ちじん,người quen,bạn bè,người quen,muc dich,người quen,今朝、電車で知人に会いました。,"Sáng nay, tôi gặp một người quen trên tàu.",ベトナム語,N3
+5,身長,しんちょう,chiều cao,sở thích,chiều cao,lời hứa,chiều cao,兄は身長が高いです。,Anh trai của tôi cao.,ベトナム語,N3
+6, 暖房,だんぼう,Hệ thống sưởi ,himg thi,Hệ thống sưởi ,nói chuyện ,Hệ thống sưởi ,寒いので暖房つけています。,Trời lạnh nên tôi bật máy sưởi.,ベトナム語,N3
+7,煙,けむり,Khói,nhớ lại,Khói,chịu dựng,Khói,タバコの煙は体悪いです。,Khói thuốc lá có hại cho bạn.,ベトナム語,N3
+8,故郷,こきょう,Bận rộn,đùa cợt,Bận rộn,làm phiền,Bận rộn,仕事忙しいくて、もう何年も故郷に帰っていません。,Đã nhiều năm tôi không về quê vì bận công việc.,ベトナム語,N3
+9,芸術　,げいじゅつ,Hội hoạ,mue dich,Hội hoạ,hi vọng,Hội hoạ,日本の芸術に興味がある,Tôi quan tâm đến nghệ thuật Nhật Bản,ベトナム語,N3
+10,岩,いわ,Hòn đá,Hòn đá,lời hứn,giấc mơ,Hòn đá,大きな岩の上に座って、海を見ました。,Tôi ngồi trên một tảng đá lớn và nhìn ra biển.,ベトナム語,N3
+11,見下ろす,みおろす,Nhìn xuống,Nhìn xuống,nổi chuyên nêng,đồng ý,Nhìn xuống,山の上から、町を見下ろす,Nhìn xuống thị trấn từ trên đỉnh núi,ベトナム語,N3
+12,見上げす,みあげす,Nhìn lên,Nhìn lên,ngại ngần,đối lập,Nhìn lên,空を見上げると、星がいっぱいだった。,"Khi tôi nhìn lên bầu trời, nó đầy sao.",ベトナム語,N3
+13,草,くさ,Cỏ,Cỏ,chịu đựng,hoa,Cỏ,草の名前を本で調べたです。,Tôi tra cứu tên loại cỏ trong một cuốn sách.,ベトナム語,N3
+14,意思,いし,Dự định,Dự định,làm phiền,mặt trời,Dự định,言葉は意思の疎通を向上させいるためのしゅだん,Ngôn ngữ là một công cụ để cải thiện giao tiếp.,ベトナム語,N3
+15,以前,いぜん, Cách đây, Cách đây,hi vọng,trái đất, Cách đây,以前先生と議論したことがある,Tôi đã có một cuộc thảo luận với giáo viên của tôi trước đây.,ベトナム語,N3
+16,痛み,いたみ,Cơn đau ,Cơn đau ,giấc mơ,nhiệt độ,Cơn đau ,わき腹にひどい痛みを感じる。,Tôi cảm thấy đau khủng khiếp ở bên hông.,ベトナム語,N3
+17,違反,いはん,Vi phạm,Vi phạm,đồng ý,độ ẩm,Vi phạm,彼は交通違反で罰金を取られいた(,Anh ta bị phạt vì vi phạm giao thông (,ベトナム語,N3
+18,引用,いんよう,Trích dẫn,Trích dẫn,đối lập,hoi am,Trích dẫn,文献から引用された部分をしょうじ,Hãy viết những phần được trích dẫn từ tài liệu.,ベトナム語,N3
+19,祝う　　,いわう,Ăn mừng,Ăn mừng,tưởng tượng,mùa mưa,Ăn mừng,帰省して家族とともに新年を祝う,Trở về nhà và đón năm mới cùng gia đình,ベトナム語,N3
+20,印象,いんしょう,Ấn tượng,Ấn tượng,nỗ lực,nâm moe,Ấn tượng,私は彼女にはよい印象を持たなかったです,Tôi không có ấn tượng tốt về cô ấy,ベトナム語,N3
+21,環境,かんきょう,Môi trường,Môi trường,Mơi sống,điều hòa,Môi trường,環境保護は私たち未来を守る上でかぎとなるものだ。,Bảo vệ môi trường là chìa khóa để bảo vệ tương lai của chúng ta.,ベトナム語,N3
+22,高齢,こうれい,tuổi già,tuổi già,cuộc sống,ổn định,tuổi già,祖母は高齢だが、まだとてもげんきだ。,Bà tôi tuy đã già nhưng bà vẫn rất năng động.,ベトナム語,N3
+23,年上,としうえ,cao tuổi ,cao tuổi ,vào đại học,lo lắng,cao tuổi ,年上の友達･,Bạn bè lớn tuổi,ベトナム語,N3
+24,目上,めうえ,cấp trên,cấp trên,quê quán,đông đúc,cấp trên,目上の人には敬語で話したほうがいい,Tốt hơn hết bạn nên nói chuyện lịch sự với cấp trên của mình.,ベトナム語,N3
+25,先輩,せんぱい,Tiền bối,Tiền bối,trưởng thành ,phát triển,Tiền bối,田中さんと私は同じとしたが､職場では彼のほうが先輩だ,Anh Tanaka và tôi giống nhau nhưng anh ấy là cấp trên của tôi trong công việc.,ベトナム語,N3
+26,上司,じょうし,ông chủ,ông chủ,về nhà,hỗn loạn,ông chủ,上司に相談してから決定する,Hãy hỏi ý kiến ​​sếp trước khi đưa ra quyết định,ベトナム語,N3
+27,相手,あいて,đối phương ,đối phương ,người quen biết,cơ bản,đối phương ,相手の目を見て話す,nhìn vào mắt người khác và nói chuyện,ベトナム語,N3
+28,知り合い,しりあい,người quen,người quen,bạn bè tốt,xúc động,người quen,知り合いに息子の就職を頼む,Nhờ một người bạn tìm việc làm cho con trai bạn,ベトナム語,N3
+29,友人,ゆうじん,xuất xứ,xuất xứ,phỏng vấn,thiết thực,xuất xứ,ええ、学生時代の友人です,"Vâng, tôi là một người bạn từ thời đi học.",ベトナム語,N3
+30,生年月日,せいねんがっび,Ngày tháng ăm sinh,Ngày tháng ăm sinh,thành công,thống nhất,Ngày tháng ăm sinh,書類に生年月日を記入する,Nhập ngày sinh vào tài liệu,ベトナム語,N3
+31,誕生,たんじょう,ra đời,Chào mừng ,ra đời,thiếu,ra đời,新しい命の誕生を祝う,chào mừng sự ra đời của cuộc sống mới,ベトナム語,N3
+32,出身,しゅっしん,xuất  thân,tương lai,xuất  thân,lý tưởng,xuất  thân,ご出身はどちらですか,Bạn đến từ đâu,ベトナム語,N3
+33,故郷,きょう,quê hương,nhiệt tình,quê hương,truyền thống,quê hương,仕事が忙しくて、もう何年も故郷に帰ってない,Đã nhiều năm tôi không về quê vì bận công việc.,ベトナム語,N3
+34,成人,ごうかく,trưởng thành,say sưa,trưởng thành,tích cực,trưởng thành,日本では二十歳以上の人を成人という,"Ở Nhật Bản, người trên 20 tuổi được coi là người lớn.",ベトナム語,N3
+35,合格,しんがく,trúng tuyển,sức khoẻ,trúng tuyển,bình quân ,trúng tuyển,大学に合格する,đỗ đại học,ベトナム語,N3
+36,就職,しゅうしょく,Việc làm mới,cực khổ,Việc làm mới,"thay,đổi",Việc làm mới,[旅行会社に就職する,[Nhận việc tại một công ty du lịch,ベトナム語,N3
+37,残業,ざんぎょう,làm thêm,đi làm,làm thêm,trả lại,làm thêm,残業が多くて疲れた。,Tôi đã làm việc quá giờ và mệt mỏi.,ベトナム語,N3
+38,生活,せいかつ,cuộc sống,bằng cấp,cuộc sống,cho phép,cuộc sống,健康的な生活を送る,Sống một cuộc sống khỏe mạnh,ベトナム語,N3
+39,通勤,つうきん,di lim,di lim,phỏng vấn,nâm moe,di lim,彼女には音楽家としての特別な才能がある,|Thế lực của người trẻ đang suy giảm,ベトナム語,N3
+40,学歴,がくれき,bằng cấp,bằng cấp,nghỉ ngơi,điều hòa,bằng cấp,彼はクラスで一番人気がある。,Để lại lời nhân thoại vào hộp thư thoại,ベトナム語,N3
+41,給料,きゅうりょう,tiền lương,tiền lương,tham quan,do hop,tiền lương,会社から給料をもらう,nhận lương từ công ty,ベトナム語,N3
+42,面接,めんせつ,phỏng vấn,phỏng vấn,về nước,màn hình,phỏng vấn,今日、会社の人と面接がある,Hôm nay tôi có cuộc phỏng vấn với một người ở công ty.,ベトナム語,N3
+43,休憩,きゅうけい,nghỉ ngơi.,nghỉ ngơi.,về quê,chương trìnhký sự,nghỉ ngơi.,ではここで、10分間の休憩です,Bây giờ chúng ta hãy nghỉ giải lao 10 phút.,ベトナム語,N3
+44,観光,きせい,Về nước,Về nước,về nhà,xung quanh,Về nước,来日の目的は観光です,Mục đích đến Nhật Bản là để tham quan.,ベトナム語,N3
+45,帰国,きこく,ve que,ve que,tham gia,phóng ,ve que,今度の正月には帰国するつもりだ,Tôi dự định sẽ trở lại Nhật Bản vào dịp năm mới tới.,ベトナム語,N3
+46,帰宅,きたく,về nhà,về nhà,có mặt,Lặp lại,về nhà,毎日忙しくて帰宅が遅い,Ngày nào tôi cũng bận và về nhà muộn,ベトナム語,N3
+47,出席,しゅっせき,tham gia,tham gia,vắng mặt,Chính xác ,tham gia,ミーティングに出席する。,Tham dự các cuộc họp.,ベトナム語,N3
+48,欠席,けっせき,có mặt,có mặt,đến muộn,Xác định,có mặt,私は計算が苦手だ,Tôi không giỏi tính toán,ベトナム語,N3
+49,遅刻,ちこく,vắng mặt.,vắng mặt.,tính toán,Trọng điểm ,vắng mặt.,来年の計画を立てる,lập kế hoạch cho năm tới,ベトナム語,N3
+50,化粧,けしょう,trang điểm,trang điểm,kế hoạch,Tất yếu,trang điểm,忘年会を開く,tổ chức tiệc cuối năm,ベトナム語,N3
+51,失敗,しっぱい,that hai,that hai,thất bại,Kích thích ,that hai,実験の失敗で､計画は中止になった,Kế hoạch đã bị hủy bỏ do thí nghiệm thất bại.,ベトナム語,N3
+52,整理,せいこう,thành công.,thành công.,chuan bi,Cũng cấp,thành công.,資料の整理,Tổ chức tài liệu,ベトナム語,N3
+53,貯金,ちょきん,tiết kiệm,tiết kiệm,chính sửa,sữa chữa ,tiết kiệm,貯金が増える,tiết kiệm tăng,ベトナム語,N3
+54,徹夜,じゅんび,chuẩn bị,chuẩn bị,đặt hàng,đặt biệt,chuẩn bị,徹夜が続く,Thức suốt đêm vẫn tiếp tục,ベトナム語,N3
+55,引っ越し,ひっこし,chuyển nhà,chuyển nhà,tiết kiệm,Hoàn toàn,chuyển nhà,引っ越しを手伝う,giúp di chuyển,ベトナム語,N3
+56,身長,しんちょう,chiều cao,chiều cao,thức xuyên đêm,thịnh vượng ,chiều cao,身長を測る,đo chiều cao,ベトナム語,N3
+57,体重,たいじゅう,cần nâng,cần nâng,cần nặng,phủ hợp,cần nâng,体重を測る,đo cân nặng của bạn,ベトナム語,N3
+58,面倒な,めんどうな,tiêu cực,tiêu cực,vết cắn ,đặc biệt,tiêu cực,ご入会には面倒な手続きはいりません。,Không có thủ tục phức tạp để tham gia.,ベトナム語,N3
+59,失礼な,しつれいな,thiếu tôn trọng,thiếu tôn trọng,sự tiếp tục,tôn trọng,thiếu tôn trọng,挨拶しても返事もしない、何で失礼な人だろう,"Tại sao anh ấy lại thô lỗ như vậy, anh ấy thậm chí không trả lời khi tôi chào hỏi?",ベトナム語,N3
+60,当然な,とうぜんな,ngạc nhiên,thực tế,Dán hình ,ngạc nhiên,ngạc nhiên,お金を借りたら、返すのが当然だ,Nếu vay tiền thì việc trả lại là điều đương nhiên.,ベトナム語,N3
+61,意外な,いがいな,bất an,khẩn cấp,Hết giờ ,bất an,bất an,事故を調査するうちに意外な事実が分かった,"Trong khi điều tra vụ tai nạn, một sự thật đáng ngạc nhiên đã được phát hiện.",ベトナム語,N3
+62,派手な,はでな,hào nhoáng,dư dã,Làm mất,hào nhoáng,hào nhoáng,変なメールが届いたのですぐに消した,Cô ấy là người rất thời trang,ベトナム語,N3
+63,地味な,じみな,vô lý,ổn định,Đủ loại,vô lý,vô lý,あの村には不思議な話が伝わっている,|Vì có mail là gửi đến nên tôi xoá ngày,ベトナム語,N3
+64,おしゃれな,おしゃれな,hấp dẫn,sự bắt đầu,Trễ giờ ,hấp dẫn,hấp dẫn,ご入会には面倒な手続きはいりません。,|Một câu chuyện kỳ lạ đang được truyền tại,ベトナム語,N3
+65,変な,へんな,lạ lùng,đông đúc,từ chối,lạ lùng,lạ lùng,英語を勉強しているが､進歩がない,Anh ấy là người được mền mộ nhất lớp.,ベトナム語,N3
+66,消極的な,しょうきょな,Thụ động ,phát triển,mời mọc ,Thụ động ,Thụ động ,徹底しておしゃれをする,|Thu nhận nhiều thông tin từ tivi,ベトナム語,N3
+67,満足な,まんぞくな,thoả mãn,chia,Mối quan hệ,thoả mãn,thoả mãn,アルバイトだけでは満足な収入は得られない,Không thể kiếm được thu nhập thỏa đáng chỉ bằng cách làm việc bán thời gian.,ベトナム語,N3
+68,不満な,ふまんな｡,bất mãn,cơ bản,cảm giác,bất mãn,bất mãn,この仕事に不満な点はない,Tôi không có phàn nàn gì về công việc này.,ベトナム語,N3
+69,不安な,ふあんな,lo lắng ,xúc động,không giữ,lo lắng ,lo lắng ,|変なメールが届いたのですぐに消した,|Tôi nhận được email lạ nên xóa ngay.,ベトナム語,N3
+70,大変な,たいへんな,vất vả,sự đau thương,tuân theo,vất vả,vất vả,あの村には不思議な話が伝わっている,Một câu chuyện bí ẩn được kể ở ngôi làng đó.,ベトナム語,N3
+71,無理な,むりな,không thể,thống nhất,tha thứ,không thể,không thể,たった100万円で家を建てるなんて無理な話,Chi 100 man mal say nhà thi là chuyên,ベトナム語,N3
+72,暗くな,くらくな,tối tăm ,bất mãn,bất mãn,tối tăm ,tối tăm ,私のふるさとは農業が盛んだ,không thể,ベトナム語,N3
+73,楽な,らくな,thoải mái ,lý tưởng,mệt mỏi ,thoải mái ,thoải mái ,デパートは、おおぜいの人で混雑している,Cửa hàng bách hóa đông đúc người.,ベトナム語,N3
+74,混雑,こんざつ,Hỗn tạp,truyền thống,lộn xộn ,Hỗn tạp,Hỗn tạp,道路が渋滞していて、 会議に遅刻した,Đường tắc nghẽn và tôi đến cuộc họp muộn.,ベトナム語,N3
+75,渋滞,じゅうたい,tắc ngẽn,tích cực,dừng ,tắc ngẽn,tắc ngẽn,電車の衝突の場面を見た,Tôi đã nhìn thấy hiện trường vụ va chạm tàu ​​hỏa.,ベトナム語,N3
+76,衝突,しょうとつ,vụ việc,bình quân ,công việc ,vụ việc,vụ việc,台風の被害,Thiệt hại do bão,ベトナム語,N3
+77,被害,ひがい,hư hại,Làm mất,phá huỷ,hư hại,hư hại,事故の原因を調べる。,Điều tra nguyên nhân vụ tai nạn.,ベトナム語,N3
+78,事故,じこ,biến cố,thừa,sự việc,biến cố,biến cố,近所で子供が次々といなくなるという事件があった,Có một vụ việc trẻ em lần lượt biến mất trong khu phố.,ベトナム語,N3
+79,事件,こしょう,mất điện,đến,tắt đi,mất điện,mất điện,有名歌手の結婚が注目を集めている。,Đang học tiếng anh nhưng không tiến bộ,ベトナム語,N3
+80,故障,じけん,trạng thái,thái độ,trạng thái,từ chối,trạng thái,パソコンがこわれたので、修理に出した,Máy tính của tôi bị hỏng nên tôi gửi nó đi sửa.,ベトナム語,N3
+81,修理,しゅうり,sửa chữa ,lành lặn,sửa chữa ,Con gái ,sửa chữa ,かみなりがちで､停電した,Nó có xu hướng trở nên nặng nề và mất điện.,ベトナム語,N3
+82,停電,ていでん,mất điện ,mất đi,mất điện ,Mối quan hệ,mất điện ,面接では緊張して、 うまく答えられなかった,Tôi rất lo lắng trong cuộc phỏng vấn và không thể trả lời tốt.,ベトナム語,N3
+83,調子,ちょうし,tình trạng,hiện tại ,tình trạng,con một,tình trạng,体力に自信がある,Tôi tự tin vào sức mạnh thể chất của mình,ベトナム語,N3
+84,緊張,きんちょう,căng  thẳng ,Suy nghĩ ,căng  thẳng ,anh em họ,căng  thẳng ,自慢の料理を作る,làm món ăn đặc biệt của riêng bạn,ベトナム語,N3
+85,自慢,かんしん,cảm đông,cảm giác,cảm đông,Người cháu,cảm đông,チンさんの進歩の速さに感心した,Tôi rất ấn tượng với tốc độ tiến bộ của Chin.,ベトナム語,N3
+86,感動,かんどう,ấn tượng ,cách nhìn,ấn tượng ,tha thứ,ấn tượng ,ーご感想はいかがですか,-Quan điểm của bạn là gì?,ベトナム語,N3
+87,興奮,こうふん,cảm tưởng,giác  quan ,cảm tưởng,họ hàng,cảm tưởng,ーすばらしかったです,-Thật là tuyệt.,ベトナム語,N3
+88,感想!,かんそう,suy nghĩ,nghỉ ngơi ,suy nghĩ,thái độ,suy nghĩ,選挙の結果を予想する,dự đoán kết quả bầu cử,ベトナム語,N3
+89,専門,せんもん,chuyên môn,Môn học,chuyên môn,bạn thân,chuyên môn,私は大学で日本の政治を研究している,Tôi đang nghiên cứu chính trị Nhật Bản tại trường đại học.,ベトナム語,N3
+90,研究,けんきゅう,nghiên cứu,điều kiện ,nghiên cứu,đau đầu,nghiên cứu,調査を行う,làm nghiên cứu,ベトナム語,N3
+91,調査,ちょうさ,điều tra,tra hỏi,điều tra,đồng nghiệp,điều tra,今､ 警察が事故の原因を調べている,Hiện cảnh sát đang điều tra nguyên nhân vụ tai nạn,ベトナム語,N3
+92,原因,げんいん,nguyên nhân,Nhân cách,nguyên nhân,Đối phương,nguyên nhân,この仕事に不満な点はない,|Người không chủ ý (bất cần),ベトナム語,N3
+93,結果,けっか,kết quả,cơ quan,kết quả,lo lắng,kết quả,1位になりたかったが、 結果が3位になった,Biên dịch tiểu thuyết tiếng nhật sang tiếngJanh,ベトナム語,N3
+94,囲む,かこむ,vây quanh,bao vây ,vây quanh,tính cách,vây quanh,テーブルを囲んで座る,ngồi quanh một cái bàn,ベトナム語,N3
+95,詰まる,つまる,"đầy, chặt",số ít ,"đầy, chặt",giống trẻ con,"đầy, chặt",お味はいかがですか,Công việc này không có điểm gì không hải,ベトナム語,N3
+96,詰める,つめる,đóng gói,chuyển cho ,đóng gói,Tính cách xấu,đóng gói,かばんにたくさん荷物が詰まっていて重い|かばんに荷物を詰める,Nó nặng vì chứa rất nhiều đồ |Đóng đồ vào túi xách,ベトナム語,N3
+97,開く,ひらく,mở ,cơ chế,mở ,cơ bản,mở ,ドアが開く,cánh cửa mở ra,ベトナム語,N3
+98,閉じる,とじる,đóng,đậy,đóng,xúc động,đóng, エレベーターのドアが閉じる鳥が空を飛んでいる,| Cửa thang máy đóng lại và một con chim bay trên bầu trời,ベトナム語,N3
+99,飛ぶ,とばす,bay,nhắc đến ,bay,tính chất ,bay,紙飛行機を飛ばす,lái máy bay giấy,ベトナム語,N3
+100,飛ばす,めくる,doanh số ,lạnh lùng,doanh số ,chán ,doanh số ,手を振る,vẫy tay,ベトナム語,N3
+101,振る,ふる,chỉ định,chi tiết,chỉ định,số đo,chỉ định,カードをめくる,lật thẻ,ベトナム語,N3
+102,捲る,めくる,Doanh số,cơ bản,Doanh số,chỉ  thị,Doanh số,町で偶然、昔の友達を見かけた,Tôi tình cờ gặp lại một người bạn cũ ở thị trấn.,ベトナム語,N3
+103,見かける,みかける,nhìn thấy,thực tế,nhìn thấy,mơ hồ,nhìn thấy,ファックスが届いたかどうか、 相手に電話して確かめた,Tôi gọi cho người nhận để xem fax đã đến chưa.,ベトナム語,N3
+104,確かめる,くりかえす,lặp lại,thiết thực,lặp lại,nhiều lần,lặp lại,洋服が似合うかどうか、着てためて同じ失敗を繰り返してはいけません英語を日本語に訳す,Đừng lặp lại sai lầm tương tự bằng cách thử quần áo để xem chúng có phù hợp với bạn hay không,ベトナム語,N3
+105,試す,ためす,thử,dư dã,thử,toàn bộ ,thử,試験を行う,tiến hành một bài kiểm tra,ベトナム語,N3
+106,繰り返す,おこなう,tổ chức,thiếu,tổ chức,chức năng ,tổ chức,この計算は間違っている,phép tính này sai,ベトナム語,N3
+107,訳す,やくす,Dịch ,lý tưởng,Dịch ,hứng lên ,Dịch ,テストの答えを間違えた,Tôi đã trả lời sai trong bài kiểm tra,ベトナム語,N3
+108,間違える,まちがえる,Sai,đông đúc,Sai,đúng nơi,Sai,事故を調査するうちに意外な事実が分かった,Chi làm thêm thì không thể nhận được nhập,ベトナム語,N3
+109,許す,ゆるす,tha lỗi,tích cực,tha lỗi,chấp nhận,tha lỗi,相手があやまったので許してあげた,Người kia mắc lỗi nên tôi đã tha thứ cho họ.,ベトナム語,N3
+110,慣れる,なれる,làm quen,hỗn loạn,làm quen,thay đổi ,làm quen,お客様には丁寧におじぎをしましょう。,|Tự nghĩ lại một ngày để viết nhật ký,ベトナム語,N3
+111,慣らす,ならす,Làm cho quen,"thay,đổi",Làm cho quen,không biết ,Làm cho quen,コンサートで歌手と握手した。,Kế hoạch này thì khó thực hiện,ベトナム語,N3
+112,立つ,たてる,xây,trả lại,xây,dựng lên,xây,|名前を呼ばれたら立ってください。,Hãy đứng lên khi được gọi tên.,ベトナム語,N3
+113,立てる,そだつ,nuôi dạy,thiết thực,nuôi dạy,dạy dỗ ,nuôi dạy,|屋根の上にアンテナを立てる,đặt ăng-ten trên mái nhà,ベトナム語,N3
+114,建つ,そだてる,mộc ,thống nhất,mộc ,nhìn thấy,mộc ,| 家の前に大きなマンションが建った都心に家を建てるのは大変だ,Rất khó để xây nhà ở trung tâm thành phố khi các chung cư lớn đã được xây dựng trước nhà.,ベトナム語,N3
+115,建てる,はえる,nuôi,Con gái cả,nuôi,chăm chỉ ,nuôi,雨が多い年は米がよく育つ,Lúa sinh trưởng tốt trong những năm có nhiều mưa.,ベトナム語,N3
+116,適当な,そっくりな,phù hợp,lý tưởng,phù hợp,không phù hợp ,phù hợp,家庭教師を探しているが､ 適当な人がなか,Điệu cần thiết với trẻ con là tình yêu âm ápleta cha me,ベトナム語,N3
+117,特別な,てきとうな,đặc biệt,truyền thống,đặc biệt,Giúp đỡ,đặc biệt,彼女には音楽家としての特別な才能がある,Cô ấy thỉ có tài năng đặc biệt với việc thànhnhà âm nhạc,ベトナム語,N3
+118,完全な,とくべつな,toàn bộ,anh em họ,toàn bộ,không giữ,toàn bộ,兄は父に顔も声もそっくりだ,Com bão hôm qua (đã) ghế quá,ベトナム語,N3
+119,盛んな,かんぜんな,thịnh vương,Người cháu,tuân theo,thịnh vương,thịnh vương,急に歯が痛み出した,Nếu đông người bắt nạt một người thì tối,ベトナム語,N3
+120,興味,きょうみ,hứng thú,"thay,đổi",thông báo,hứng thú,hứng thú,|趣味は読書です,Tôi hứng thủ với lịch sử,ベトナム語,N3
+121,冗談,じょうだん,nhớ lại,họ hàng,vỗ,nhớ lại,nhớ lại,私は歴史に興味がある,Ki niệm thời thơ ấu,ベトナム語,N3
+122,目的,もくてき,Mục đích,vợ chồng ,sự tiếp tục,Mục đích,Mục đích,子供のころの思い出,Tôi nói dùa mả mọi người tin là thật,ベトナム語,N3
+123,約束,やくそく,lời hứa,bạn thân,thực tế,lời hứa,lời hứa,冗談を言ったら、みんなが本気にした,Mục đích của tôi đến nhật là vào đại học,ベトナム語,N3
+124,おしゃべり,おしゃべり,nói chuyện ,Con gái cả,khẩn cấp,nói chuyện ,nói chuyện ,日本に来た目的は大学への入学だ,Tôi hứa sẽ cưới anh ta,ベトナム語,N3
+125,遠慮,えんりょ,chịu dựng,đồng nghiệp,dư dã,chịu dựng,chịu dựng,彼と結婚の約束をした,Hãy ăn và chở ngại ngùng,ベトナム語,N3
+126,我慢,がまん,làm phiền,Giúp đỡ,ổn định,làm phiền,làm phiền,授業中に隣の人とおしゃべりしていて,Cho dù đau tôi sẽ cổ chịu đựng,ベトナム語,N3
+127,希望,めわく,hi vọng,làm việc,sự bắt đầu,hi vọng,hi vọng,遠慮しないで食べてください｡,Đừng làm phiền người khác,ベトナム語,N3
+128,夢,きぼう,giấc mơ,náo loạn,đông đúc,giấc mơ,giấc mơ,痛くてもがまんする,Đừng đánh mất hy vọng,ベトナム語,N3
+129,賛成,さんせい,đồng ý,thông báo,phát triển,đồng ý,đồng ý,人に迷惑をかけてはいけない。,Hôm qua tôi mơ 1 giấc mơ dảng sợ.,ベトナム語,N3
+130,反対,はんたい,đối lập,mệt mỏi,chia,đối lập,đối lập,最後まで希望を捨ててはいけない,Ai đồng ý thì gio tay lên nào,ベトナム語,N3
+131,想像,どりょく,tưởng tượng ,sự tiếp tục,cơ bản,tưởng tượng ,tưởng tượng ,昨日、怖い夢を見た,Đối lập với cộng là trê,ベトナム語,N3
+132,太陽,たいよう,mặt trời,"chiều ,cuối",xúc động,mặt trời,mặt trời,成の人は手を上げてください,Hiện thực thi khác với tưởng tượng,ベトナム語,N3
+133,地球,ちきゅう,trái đất,khẩn cấp,sự đau thương,trái đất,trái đất,プラスの反対はマイナスだ。,Môi trường của trái đất đang xấu đề,ベトナム語,N3
+134,温度,おんど,nhiệt độ,thua,thống nhất,nhiệt độ,nhiệt độ,想像と現実は違う,Mùa hè năm nay độ âm đặc biệt cao,ベトナム語,N3
+135,温度,しつど,độ ẩm,đón,nóng lên,độ ẩm,độ ẩm,一生懸命、努力をする,Mùa hè ở Nhật Bản ẩm ướt,ベトナム語,N3
+136,湿気,しっけ,hơi ẩm,sự bắt đầu,nhiệt độ ,hơi ẩm,hơi ẩm,太陽が昇って、暖かくなった,Từ tháng 6 đến tháng 7 là giai đoạn mùa mưa rất dễ ẩm mốc,ベトナム語,N3
+137,梅雨,だんぼう,mùa mưa,sự kết thúc,Kéo dài,mùa mưa,mùa mưa,地球の環境が悪化している,Mùa mưa rất dễ ẩm mốc,ベトナム語,N3
+138,暖房,だんぼう,Sưởi ấm,trở lại,dần dần ,Sưởi ấm,Sưởi ấm,温度を測る,Mặt trời mọc và trở nên ấm hơn,ベトナム語,N3
+139,皮,かん,điều hòa,chia,máy sưởi ,điều hòa,điều hòa,今年の夏は特に湿度が高い,Vị trời lạnh nên bật máy sưởi ẩm,ベトナム語,N3
+140,画面,がめん,màn hình,sự phấn khởi,chương trình,màn hình,màn hình,日本の夏は湿気が多い,|Bảo quản kẹo trong hộp,ベトナム語,N3
+141,番組,ばんぐみ,chương trình,cười,tiếp theo ,chương trình,chương trình,6月から7月は梅雨の時期だ,Khi nhìn màn hình lâu mắt tôi thấy môi,ベトナム語,N3
+142,記事,きじ,chương trìnhký sự,sự đau thương,cảnh quan,chương trìnhký sự,chương trìnhký sự,梅雨の時期はかびがほえやすい,Theo bài viêt này thi người đang sống Nhật Bản hiện đang tăng,ベトナム語,N3
+143,近所,きんじょ,xung quanh,thoã mãn,xinh đẹp ,xung quanh,xung quanh,寒いので暖房をつける,|Nên kết bạn với hàng xóm,ベトナム語,N3
+144,理解,りかい,lý giải,trung tâm,bình thường ,lý giải,lý giải,意味の理解,|Vi bị mắt cặp xe đạp nên tôi đã bảo cho cảnh sát ,ベトナム語,N3
+145,発見,はっけん,phát kiến,"gần, lần cận",lý giải ,phát kiến,phát kiến,大きな発見,Phát kiển lớn,ベトナム語,N3
+146,発明,はつめい,phát minh,xung quanh,sử dụng,phát minh,phát minh,ベルは電話を発明した,Bell đã phát minh ra điện thoại,ベトナム語,N3
+147,関係,かんけい,quan hệ,nội dung,xổ số,quan hệ,quan hệ,お二人の関係は親子です,Quan hệ giữa 2 người là bố mẹ con,ベトナム語,N3
+148,選挙,だんたい,đoàn thể,địa điểm,rút thăm,đoàn thể,đoàn thể,博物館で団体のチケットを買う,Mua vẽ nhóm tham quan viện bảo tàng,ベトナム語,N3
+149,税金,せんきょ,bầu cử,kế,quanh,bầu cử,bầu cử,1月に選挙が行われる,Tháng 1 bầu cử được tiến hành,ベトナム語,N3
+150,責任,ぜいきん,Thuế,Thuế,quanh đây,lỗ,Thuế,年度末にぜいきんを払う,Trả tiền thuế vào cuối năm nay,ベトナム語,N3
+151,条件,せきにん,trách nhiệm,trách nhiệm,lý thuyết ,hàng,trách nhiệm,この失敗はあなたの責任ではない,Thất bại này không phải là trách nhiệm củaIban,ベトナム語,N3
+152,締め切り,しめきり,hạn cuối ,hạn cuối ,trung tâm,chiều rộng,hạn cuối ,レポートの締め切りは30日です,Hạn cuối của bảo cáo là ngày 30,ベトナム語,N3
+153,期間,きかん,thời gian,thời gian,"gần, lần cận",phạm vi,thời gian,申し込み期間は12月1日から3日までです,Thời gian đăng ký là ngày 1 đến ngày 3 của|tháng 12,ベトナム語,N3
+154,近道,ちかみち,đường tắt,đường tắt,xung quanh,tắt nguồn ,đường tắt,駅への近道を通る,Đi đường tắt đến ga,ベトナム語,N3
+155,中身,なかみ,bên trong,bên trong,bên ngoài,nội dung ,bên trong,箱を開けて中身を見る,Mở hộp ra xem bên trong,ベトナム語,N3
+156,当たり前,あたりまえ,đương nhiên,đương nhiên,tất cả,tất nhiên ,đương nhiên,そんなひどいことをされたら、怒るのがあたり,Bị làm chuyện khủng khiếp thế kia thì nổi giận là đương nhiên,ベトナム語,N3
+157,書類,しょるい,tài liệu,tài liệu,Giữ liệu,liệu trình ,tài liệu,留学の手続きに必要な書類を準備する,Chuẩn bị thủ tục cần thiết đi du học,ベトナム語,N3
+158,題名,だいめい」,tiêu đề,tiêu đề,tiêu chuẩn,chủ yếu ,tiêu đề,コンクールに出す作品に題名をつける,Thêm tiêu để vào tác phẩm biểu diễn,ベトナム語,N3
+159,条件,じょうけん,điều kiện,điều kiện,kinh nghiệm,kinh tế ,điều kiện,運転免許を持っていることが採用の条件だ,Việc có bằng lái xe là I điều kiện của tuyển dụng,ベトナム語,N3

@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    background-image: url('background01.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    position: absolute; /* Mengatur posisi absolut */
+    top: 30px; /* Membawa tombol ke bawah */
+    margin: center; /* Membawa tombol ke kiri */
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+}
+
+form {
+    /*font-size: 50px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+input[type="submit"][name="n2_button" ],input[type="submit"][name="n3_button"]{
+    margin-top: 100px;
+}
+
+input[type="submit"][name="country_button"],input[type="submit"][name="action_button"]{
+    margin-top: 100px;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 25px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin: 5px;
+}
+
+/* Gaya untuk tombol "Kembali ke Pilih Opsi" */
+input[type="submit"][name="back_button"],input[type="submit"][name="back_button1"] {
+    background-color: #e74c3c; /* Warna merah */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    position: absolute; /* Mengatur posisi absolut */
+    bottom: 300px; /* Membawa tombol ke bawah */
+    left: 800px; /* Membawa tombol ke kiri */
+}
+
+input[type="submit"][name="back_button"]:hover,input[type="submit"][name="back_button1"]:hover {
+    background-color: #c0392b; /* Warna merah yang lebih tua saat tombol dihover */
+}

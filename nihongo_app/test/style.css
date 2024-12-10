@@ -1,0 +1,226 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-image: url("../background01.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+#remark{
+    background-color: rgba(0,0,0, 0.7);
+}
+.timer {
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.timer div {
+    font-size: 1.5rem;
+    display: none;
+    border-radius: 100%;
+    background-color: yellow;
+    padding: 2rem;
+}
+
+.timer button {
+    font-size: 1.5rem;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+.timer button:hover {
+    border-radius: 10px;
+    background-color: #ff0000;
+
+}
+
+main {
+    display: none;
+}
+
+form {
+    display: none;
+}
+
+#quiz-number {
+    text-align: center;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+
+.quiznumber a:hover {
+    color: #f1f1f1;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    text-shadow: 2px 2px 4px white;
+}
+
+ruby {
+    font-size: 2.5rem;
+}
+
+.next-button button {
+    position: absolute;
+    top: 70%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    background-color: #ff0000;
+    color: #fff;
+    font-weight: 600;
+    border: 2px solid gray;
+    cursor: pointer;
+    outline: none;
+    font-size: 1.8rem;
+}
+
+.next-button button:hover {
+    background-color: rgb(226, 51, 51);
+}
+
+.quiz-question {
+    clear: both;
+}
+
+.quiz-options {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.quiz-options span {
+    position: relative;
+    margin-bottom: 7rem;
+}
+
+.quiz-options span label {
+    font-size: 2.5rem;
+}
+#check-mark{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    font-size: 1.5rem;
+    border-radius: 12px;
+    padding-left: 1rem;
+    background-color: rgba(0,0,0, 0.7);
+    
+}
+h3 {
+    clear: both;
+}
+
+#kotae {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    height: auto;
+    font-size: 2.2rem;
+    display: inline;
+}
+
+.kotae_box span ruby {
+    font-size: unset;
+}
+
+.kotae_box {
+    width: 50%;
+    float: left;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+}
+
+.kotae_box :hover {
+    background-color: white;
+}
+
+.kotae_box div {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+.score {
+    clear: both;
+    text-align: center;
+    display: block;
+}
+
+span.correct {
+    color: green;
+}
+
+span.wrong {
+    color: #ff0000;
+}
+
+.result_button {
+    clear: both;
+    margin-top: 20px;
+    margin-left: 60%;
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: 600;
+    outline: none;
+}
+
+.result_button button {
+    border-radius: 5px;
+    background-color: #ffae00;
+    border: 2px solid gray;
+    cursor: pointer;
+    font-size: 1.8rem;
+}
+
+.result_button button:hover {
+    background-color: red;
+}
+
+@media(max-width:400px) {
+    ruby {
+        font-size: 1.8rem;
+    }
+
+    .quiz-options span label {
+        font-size: 2rem;
+    }
+
+    .timer div {
+        font-size: 1.5rem;
+    }
+
+    .timer button {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width : 600px) {
+    .quiz-question {
+        width: 90%;
+        height: auto;
+    }
+
+    .quiz-options span {
+        width: 90%;
+        height: 2.5rem;
+    }
+
+    .kotae_box {
+        width: 100%;
+        float: none;
+    }
+
+    .next-button button {
+        font-size: 1.5rem;
+    }
+}

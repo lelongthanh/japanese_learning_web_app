@@ -1,0 +1,162 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: url("../background01.png") no-repeat center fixed;
+    background-size: cover;
+    background-clip: padding-box;
+
+}
+
+#startbutton {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    font-size: 2.5rem;
+    color: white;
+    border-radius: 1rem;
+    background-color: red;
+}
+
+#congratulation {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 10%;
+    left: 65%;
+    display: none;
+
+}
+
+#congratulation span {
+    animation: changecolor 7s infinite;
+}
+
+@keyframes changecolor {
+    0% {
+        color: red
+    }
+
+    20% {
+        color: orange
+    }
+
+
+    40% {
+        color: yellow
+    }
+
+
+    60% {
+        color: green
+    }
+
+    80% {
+        color: blue
+    }
+
+    100% {
+        color: purple
+    }
+}
+
+main {
+    display: none;
+}
+
+table {
+    position: absolute;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+}
+
+td {
+    padding: 10px;
+
+}
+
+.kanji {
+    position: relative;
+    width: 8rem;
+    max-width: 8rem;
+    height: 3rem;
+    max-height: 3rem;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    display: inline-block;
+}
+
+.kanji:has(span.check) {
+    background-color: greenyellow;
+}
+
+.kanji:has(span.checking) {
+    background-color: azure;
+}
+
+.kanji:has(span.checked) {
+    background-color: aquamarine;
+}
+
+.checking {
+    display: inline-block;
+}
+
+.check {
+    display: none;
+}
+
+.checked {
+    display: inline-block;
+    color: darkmagenta;
+}
+
+#gethw {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    outline: none;
+    width: 50%;
+}
+
+input {
+    float: left;
+    border: 1px;
+    margin: 5px;
+    margin-left: 10px;
+    font-size: 2.5rem;
+}
+
+.button {
+    outline: none;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+.button button {
+    border-radius: 5px;
+    background-color: #ffae00;
+    border: 2px solid gray;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+.button button:hover {
+    background-color: red;
+}
+@media (max-width : 600px) {
+    #congratulation h2{
+        font-size: 0.8rem;
+    }
+    .kanji {
+        font-size: 0.8rem;
+        width: 4rem;
+        max-width: 4rem;
+        height: 1.5rem;
+        max-height: 1.5rem;
+    }
+}

@@ -1,0 +1,70 @@
+ID,言葉,フリガナ,言葉意味,答A,答B,答C,正答,例,例意味,言語,レベル
+1,人生,じんせい,cuộc sống,sinh hoạt,cuộc sống,mức sống,cuộc sống,幸せな人生を送る,sống một cuộc sống hạnh phúc,ベトナム語,N2
+2,人間,にんげん,con người,con người,kiểu người,loại người,con người,人間は皆、平等である,"là con người, mọi người đều bình đẳng",ベトナム語,N2
+3,人,ひと,người,đi vào,tiến vào,người,người,若い人は元気でいいね,người trẻ thật tốt khi có sức khỏe nhỉ,ベトナム語,N2
+4,祖先,そせん,tổ tiên,ông bà,tổ tiên,Con út,tổ tiên,人類の祖先は、アフリカで発生したと考えられている,tổ tiên loài người phát triển từ Châu Phi,ベトナム語,N2
+5,親戚,しんせき,họ hàng,họ hàng,hàng xóm,con một,họ hàng,家の親戚は皆近くに住んでいる,họ hàng tôi đều sống gần đây,ベトナム語,N2
+6,夫婦,ふうふ,vợ chồng,vỗ,vợ chồng,anh em họ,vợ chồng,二人は結婚して夫婦になった,hai người kết hôn trở thành vợ chồng,ベトナム語,N2
+7,長男,ちょうなん,trưởng nam,con út,trưởng nam,trưởng thứ,trưởng nam,日本では、長男は大事にされる傾向があった,"ở Nhật, trưởng nam có huynh hướng được coi trong",ベトナム語,N2
+8,主人,しゅじん,"chồng,chủ tiệm",Quầy lễ tân,quản lý,"chồng,chủ tiệm","chồng,chủ tiệm",あのそば屋の主人はまだ若いが、腕はいい,chủ cửa hàng Soba kia tuy trẻ nhưng tay nghề rất tốt,ベトナム語,N2
+9,双子,ふたご,sinh đôi,sinh bốn,sinh ba,sinh đôi,sinh đôi,私には双子の弟がいます,tôi có người em sinh đôi,ベトナム語,N2
+10,迷子,まいご,trẻ bị lạc,năng lực,trẻ bị lạc,cho phép,trẻ bị lạc,東京駅は広くて迷子になりそうだ,ga tokyo rộng nên bị lạc,ベトナム語,N2
+11,他人,たにん,người khác,người khác,con trai,Con trai cả,người khác,友達だと思って声を掛けたら、まったくの他人だった,"tưởng là bạn nên tiếng gọi, nhưng là người hoàn toàn khác",ベトナム語,N2
+12,敵,てき,kẻ thù,kẻ thù,đồng minh,hậu phương,kẻ thù,兄弟は敵と味方に分かれて戦った,"2 anh em phân chia bên bạn, bên thù, đánh nhau",ベトナム語,N2
+13,味方,みかた,"bạn bè, đồng minh",trẻ bị lạc,"bạn bè, đồng minh",thống nhất,"bạn bè, đồng minh",何があっても、私はあなたの味方です,dù có chuyện gì xảy ra tôi sẽ luôn là bạn anh,ベトナム語,N2
+14,筆者,ひっしゃ,tác giả,đạo diễn,tác giả,biên tập viên,tác giả,筆者のもっとも言いたいことを下から選びなさい,"tác giả muốn nói điều gì nhất, hãy chọn bên dưới",ベトナム語,N2
+15,寿命,じゅみょう,tuổi thọ,tuổi thọ,ý chí,sở thích,tuổi thọ,医学に進歩によって、人間の寿命は１００年前に比べるとずいぶん伸びた,với tiến bộ y học thì tuổi thọ con người so với 100 năm trước đã cao hơn,ベトナム語,N2
+16,将来,しょうらい,tương lai,quá khứ,hiện tại,tương lai,tương lai,将来の希望は海外で働くことだ,tôi có nguyện vọng tương lai là làm ở công ty nước ngoài,ベトナム語,N2
+17,才能,さいのう,tài năng,kỹ năng,đá,tài năng,tài năng,彼女には、音楽の才能がある,cô ấy có tài năng về âm nhạc,ベトナム語,N2
+18,能力,のうりょく,năng lực,năng lực,dây,đi làm,năng lực,私にはこの問題を解決する能力がない,tôi không có năng lực giải quyết vấn đề này,ベトナム語,N2
+19,長所,ちょうしょ,sở trường,toàn bộ cơ thể,sở trường,thành đạt,sở trường,あなたの性格の長所と短所を言ってください,hãy cho tôi biết điểm mạnh và điểm yếu của bạn ,ベトナム語,N2
+20,個性,こせい,cá tính,trang phục,cá tính,địa vị,cá tính,子供たちの個性を伸ばすような教育がしたい,muốn giáo dục để phát triển cá tính con trẻ,ベトナム語,N2
+21,遺伝,いでん,di truyền,lời cảm ơn,di truyền,tham gia kỳ thi,di truyền,私の左利きは親からの遺伝だ,tôi thuận tay trái là do di truyền từ cha mẹ,ベトナム語,N2
+22,動作,どうさ,động tác,động tác,người,cử động,động tác,彼女の動作は優雅で美しい,"động tác của em dịu dàng, đẹp đẽ",ベトナム語,N2
+23,真似,まね,bắt chước,ổn định,tổ tiên,bắt chước,bắt chước,子供は何でも親のまねをしたがるものだ,trẻ con thường thích bắt chước cha mẹ,ベトナム語,N2
+24,睡眠,すいみん,ngủ,lo lắng,họ hàng,ngủ,ngủ,アンケートの結果、睡眠時間は平均７時間という人が最も多かった,"theo điều tra, trung bình số người ngủ 7 tiếng mỗi ngày là nhiều nhất",ベトナム語,N2
+25,食欲,しょくよく,thèm ăn,đông đúc,vợ chồng,thèm ăn,thèm ăn,今、風を引いて食欲がない,bị cảm nên không thèm ăn gì cả,ベトナム語,N2
+26,外食,がいしょく,ăn ngoài,phát triển,ăn ngoài,ăn trưa,ăn ngoài,一人暮らしになって、外食が増えた,sống một mình nên thường ăn ngoài,ベトナム語,N2
+27,家事,かじ,việc nhà,hỗn loạn,việc nhà,dọn dẹp,việc nhà,最近は、家事や育児もする男性が増えた,gần đây số lượng nam giới làm việc nhà và chăm sóc con đã tăng lên,ベトナム語,N2
+28,出産,しゅっさん,sinh đẻ,vai trò,sản xuất,sinh đẻ,sinh đẻ,先日、　姉が女の子を出産した,hôm trước chị gái đã sinh em gái,ベトナム語,N2
+29,介護,かいご,chăm sóc,chi tiết,chăm sóc,quan tâm,chăm sóc,お年寄りの介護をする,chăm sóc người cao tuổi,ベトナム語,N2
+30,共働き,ともばたらき,vợ chồng cùng làm việc,đến,làm việc,vợ chồng cùng làm việc,vợ chồng cùng làm việc,結婚２０年、ずっと共働きです,"kết hôn được 20 năm, 2 vợ chồng đi làm suốt",ベトナム語,N2
+31,出勤,しゅっきん,đi làm,chi tiết,đi làm,họ hàng,đi làm,毎日８時に出勤している,tôi đi làm vào 8 giờ sáng mỗi ngày·,ベトナム語,N2
+32,出世,しゅっせ,thành đạt,thành đạt,thành công,cơ bản,thành đạt,出世もしたいが、仕事ばかりの人生も嫌だ,dù thành đạt nhưng cuộc sống toàn công việc thì thật chán,ベトナム語,N2
+33,地位,ちい,địa vị,năng lực,địa vị,xúc động,địa vị,地位が上がるとともにストレスも増える,vị trí địa vị cao thì áp lực cũng tăng,ベトナム語,N2
+34,受験,じゅけん,tham gia kỳ thi,tham gia kỳ thi,ứng tuyển,thiết thực,tham gia kỳ thi,東京の大学を受験した,tham gia kỳ thi đại học tokyo,ベトナム語,N2
+35,専攻,せんこう,chuyên ngành,chuyên ngành,công việc,thống nhất,chuyên ngành,私は大学で経済学を専攻した,chuyên ngành của tôi là kinh tế học,ベトナム語,N2
+36,支度,したく,chuẩn bị,"vui chơi, thú vui",chuẩn bị,thiếu,chuẩn bị,旅行の支度をする,chuẩn bị đi du lịch,ベトナム語,N2
+37,全身,ぜんしん,toàn bộ cơ thể,"chủ tịch, chủ hội",cơ thể,toàn bộ cơ thể,toàn bộ cơ thể,玄関に、全身を映す大きな鏡が置いてある,đặt 1 cái gương to chiếu được cả cơ thể ở cửa,ベトナム語,N2
+38,服装,ふくそう,trang phục,hoan nghêng,trang phục,tôn trọng,trang phục,面接にはきちんとした服装で行きなさい,mặc quần áo chỉnh tề vào rồi còn đi phỏng vấn,ベトナム語,N2
+39,礼,れい,lời cảm ơn,cửa bán vé,lời cảm ơn,khiêm tốn,lời cảm ơn,親切にしてもらった礼を述べる,phát biểu lời cảm ơn vì đã đối xử tốt,ベトナム語,N2
+40,材料,ざいりょう,nguyên liệu,thủ tục,nguyên liệu,mong chờ,nguyên liệu,スーパーへ夕食の材料を買いに行った,đến siêu thị mua nguyên liệu cho bữa tối,ベトナム語,N2
+41,世辞,せじ,"nịnh, ca tụng","nịnh, ca tụng",bí mật,mong chờ,"nịnh, ca tụng",「いいネクタイですね」と世辞を言った,"""Cà vạt của anh đẹp thế"" nói nịnh sếp",ベトナム語,N2
+42,言い訳,いいわけ,lý do,lý do,tôn trọng,lo lắng,lý do,田中さんはいつも言い訳ばかり言って、自分の失敗を認めようとしない,Tanaka luôn lý do lý trấu không chịu thừa nhận thất bại,ベトナム語,N2
+43,話題,わだい,chủ đề,chủ đề,khiêm tốn,ý chí,chủ đề,野中さんはとても話題が豊富な人で、話していて楽しい,"nonaka có nhiều chủ đề phong phú, nói chuyện rất là vui",ベトナム語,N2
+44,秘密,ひみつ,bí mật,tham gia kỳ thi,toàn bộ cơ thể,bí mật,bí mật,「あなたを信用して私のひみつを打ち明けます」,"vì tin tưởng anh, nên sẽ nói bí mât của tôi cho anh",ベトナム語,N2
+45,尊敬,そんけい,tôn trọng,chuyên ngành,trang phục,tôn trọng,tôn trọng,マザー・テレサは世界中の人々に尊敬されている,mẹ Tersa được tôn kính khắp thế giới,ベトナム語,N2
+46,謙遜,けんそん,khiêm tốn,chuẩn bị,lời cảm ơn,khiêm tốn,khiêm tốn,褒められた時、謙遜して「そんなことはありません」という人も多い,"khi được khen, rất nhiều người nói khiêm tốn ""không có chuyện đó đâu""",ベトナム語,N2
+47,期待,きたい,mong chờ,đá,mong chờ,bảng biểu,mong chờ,山本選手の活躍を期待したいが、期待はずれの結果に終わった,mong chờ tuyển thú yamamoto ghi bàn nhưng lại thua ngoài mong đợi,ベトナム語,N2
+48,苦労,くろう,lo lắng,dây,lo lắng,kim,lo lắng,父の死後、母は苦労して私たちを育ててくれた,"sau khi bố mất, mẹ tôi vất vả nuôi dạy chúng tôi",ベトナム語,N2
+49,意志,いし,ý chí,vé,ý chí,"nút, nắp",ý chí,彼女は意志が固いから、きっと目的を達成するだろう,"cô ấy có ý chí rất mạnh mẽ, chắc chắn sẽ đạt được mục đích",ベトナム語,N2
+50,感情,かんじょう,biểu cảm,"danh bạ, danh sách",biểu cảm,"hơi, khí",biểu cảm,田中さんはすぐに感情が顔に出る,anh tanaka ngay lập tức biểu hiện ra mặt,ベトナム語,N2
+51,石,いし,đá,sở trường,đá,cuộc sống,đá,グラウンドに落ちている石を拾った,nhặt hon đá trên sông ,ベトナム語,N2
+52,紐,ひも,dây,cá tính,dây,con người,dây,靴の紐を結ぶ,buộc dây guày,ベトナム語,N2
+53,券,けん,vé,di truyền,vé,người,vé,あの店はいつも混んでいて、入るのに整理券が必要だ,Cửa hàng đó lúc nào cũng đông khách và bạn cần có vé số để vào.,ベトナム語,N2
+54,名簿,めいぼ,"danh bạ, danh sách",động tác,"danh bạ, danh sách",tổ tiên,"danh bạ, danh sách",クラスの名簿を作る,"lập danh sách lớp",ベトナム語,N2
+55,表,ひょう,bảng biểu,"vui chơi, thú vui",nơi có ánh sáng chiếu vào,bảng biểu,bảng biểu,成績を表にする,"Bảng kết quả",ベトナム語,N2
+56,針,けり,kim,"chủ tịch, chủ hội",trống rỗng,kim,kim,針に糸を通す,xâu kim,ベトナム語,N2
+57,栓,せん,"nút, nắp",hoan nghêng,nghiêng,"nút, nắp","nút, nắp",ビールの栓を抜く,"mở nút chai bia",ベトナム語,N2
+58,湯気,ゆげ,"hơi, khí",cửa bán vé,lý lịch,"hơi, khí","hơi, khí",うどんの湯気でメガネが曇ってしまった,Kính của tôi mờ đi vì hơi nước từ mì udon,ベトナム語,N2
+59,日当たり,ひあたり,nơi có ánh sáng chiếu vào,nơi có ánh sáng chiếu vào,"vui chơi, thú vui",thủ tục,nơi có ánh sáng chiếu vào,私の部屋は南向きで日当たりがいい,Phòng tôi hướng về phía nam và có nắng,ベトナム語,N2
+60,空,から,trống rỗng,trống rỗng,"chủ tịch, chủ hội",đi bộ,trống rỗng,昨夜は一人でワイン一瓶をからにした,Đêm qua tôi đã uống một chai rượu một mình.,ベトナム語,N2
+61,斜め,ななめ,nghiêng,nghiêng,hoan nghêng,bãi đỗ xe,nghiêng,地震で家が斜めに傾いた,Ngôi nhà bị nghiêng chéo do động đất,ベトナム語,N2
+62,履歴,りれき,lý lịch,lý lịch,cửa bán vé,Cơn đau ,lý lịch,会社に応募するにあたり、履歴書を書いた,Tôi đã viết sơ yếu lý lịch khi nộp đơn vào một công ty,ベトナム語,N2
+63,娯楽,ごらく,"vui chơi, thú vui",Ăn mừng,Vai trò,"vui chơi, thú vui","vui chơi, thú vui",家の父は、釣りを娯楽として楽しんでいる,Người cha của ngôi nhà thích câu cá như một trò tiêu khiển,ベトナム語,N2
+64,司会,しかい,"chủ tịch, chủ hội",Ấn tượng,Sinh lời,"chủ tịch, chủ hội","chủ tịch, chủ hội",友人に結婚式の司会を頼んだ,Tôi nhờ một người bạn tổ chức đám cưới cho tôi,ベトナム語,N2
+65,歓迎,かんげい,hoan nghêng,Môi trường,Thời gian,hoan nghêng,hoan nghêng,新入社員を歓迎する会が開かれた,Một cuộc họp được tổ chức để chào đón nhân viên mới,ベトナム語,N2
+66,窓口,まどぐち,cửa bán vé,tuổi già,Thời hạn,cửa bán vé,cửa bán vé,銀行の窓口には大勢の人が並んでいる,Rất đông người dân đang xếp hàng tại quầy giao dịch ngân hàng,ベトナム語,N2
+67,手続き,てつづき,thủ tục,thủ tục,trưởng nam,ổn định,thủ tục,入学の手続きを作る,Tạo thủ tục nhập học,ベトナム語,N2
+68,徒歩,とほ,đi bộ,đi bộ,"chồng,chủ tiệm",lo lắng,đi bộ,会社に徒歩で通っている,đi bô đến công ty··,ベトナム語,N2
+70,駐車,ちゅうしゃ,bãi đỗ xe,bãi đỗ xe,sinh đôi,đông đúc,bãi đỗ xe,駐車違反で捕まった,bị bắt vì vi phạm đỗ xe,ベトナム語,N2
